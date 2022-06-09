@@ -7,6 +7,8 @@
 3. On HUAWEI DevEco Studio, click File --> Open, then choose the project directory (which is cloned in step 1)
 4. Click the following button to run the app on the emulator
 ![Click this button to run app on the emulator](README_images/start_lite_wearable_button.png)
+5. After step 4 is done, you should have something similar to the picture below:
+![](README_images/lite_wearable_project_quick_glance.png)
 
 ## Documentation
 
